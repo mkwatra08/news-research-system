@@ -269,10 +269,6 @@ print(f"Confidence: {answer['confidence_score']}")
 4. Add tests
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🆘 Troubleshooting
 
 ### Common Issues
@@ -313,13 +309,4 @@ docker-compose logs -f
 docker-compose logs -f api
 ```
 
-## 📞 Support
-
-For issues and questions:
-- Create an issue on GitHub
-- Check the documentation at `/docs`
-- Review the health endpoint at `/health`
-
 ---
-
-Built with ❤️ for intelligent news research and analysis.
